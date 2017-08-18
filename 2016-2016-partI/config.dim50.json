@@ -1,13 +1,13 @@
 {
     "embeddings": [
         {
-            "tensorPath": "https://dl.dropboxusercontent.com/u/10569929/edgar_data/2016-2016-partI/corpus.raw.txt.2016-2016-partI.doc2vec.dim50_tensor.tsv", 
+            "tensorPath": "https://github.com/gmlee7/edgar-data/blob/master/edgar_data/2016-2016-partI/corpus.raw.txt.2016-2016-partI.doc2vec.dim50_tensor.tsv", 
             "tensorName": "2016-2016-partI", 
             "tensorShape": [
                 5797, 
                 50
             ], 
-            "metadataPath": "https://dl.dropboxusercontent.com/u/10569929/edgar_data/2016-2016-partI/corpus.raw.txt.2016-2016-partI.doc2vec.dim50_metadata.tsv"
+            "metadataPath": "https://github.com/gmlee7/edgar-data/blob/master/edgar_data/2016-2016-partI/corpus.raw.txt.2016-2016-partI.doc2vec.dim50_metadata.tsv"
         }
     ]
 }
