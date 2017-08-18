@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+        {
+            "tensorName": "1995-2015 SIC73XX partI",
+            "tensorShape": [
+                9067,
+                100 
+            ],
+            "tensorPath": "https://dl.dropboxusercontent.com/u/10569929/edgar_data/1995-2015-73-partI/corpus.raw.txt.1995-2015-73-partI.doc2vec.dim100_tensor.tsv",
+            "metadataPath": "https://dl.dropboxusercontent.com/u/10569929/edgar_data/1995-2015-73-partI/corpus.raw.txt.1995-2015-73-partI.doc2vec.dim100_metadata.tsv"
+        }
+    ]
+}

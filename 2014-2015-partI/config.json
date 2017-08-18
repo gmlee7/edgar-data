@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+        {
+            "tensorName": "2014-2015 partI",
+            "tensorShape": [
+                10857,
+                50
+            ],
+            "tensorPath": "https://dl.dropboxusercontent.com/u/10569929/edgar_data/2014-2015-partI/corpus.raw.txt.2014-2015-partI.tfboard_tensor.tsv",
+            "metadataPath": "https://dl.dropboxusercontent.com/u/10569929/edgar_data/2014-2015-partI/corpus.raw.txt.2014-2015-partI.tfboard_metadata.tsv"
+        }
+    ]
+}

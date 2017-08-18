@@ -1,0 +1,14 @@
+{
+    "embeddings": [
+        {
+            "tensorName": "SEC 10-K SIC73XX 2007-2016",
+            "tensorShape": [
+                3509,
+                50
+            ],
+            "tensorPath": "https://dl.dropboxusercontent.com/u/10569929/edgar_data/corpus.raw.txt.2007-2016-73-item1.tfboard_tensor.tsv",
+            "metadataPath": "https://dl.dropboxusercontent.com/u/10569929/edgar_data/corpus.raw.txt.2007-2016-73-item1.tfboard_metadata.tsv",
+            "bookmarksPath": "https://dl.dropboxusercontent.com/u/10569929/edgar_data/state_linkedin.txt" 
+        }
+    ]
+}

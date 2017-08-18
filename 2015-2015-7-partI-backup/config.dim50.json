@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+        {
+            "tensorPath": "https://dl.dropboxusercontent.com/u/10569929/edgar_data/2015-2015-7-partI/corpus.raw.txt.2015-2015-7-partI.doc2vec.dim50_tensor.tsv", 
+            "tensorName": "2015-2015-7-partI", 
+            "tensorShape": [
+                705, 
+                50
+            ], 
+            "metadataPath": "https://dl.dropboxusercontent.com/u/10569929/edgar_data/2015-2015-7-partI/corpus.raw.txt.2015-2015-7-partI.doc2vec.dim50_metadata.tsv"
+        }
+    ]
+}
